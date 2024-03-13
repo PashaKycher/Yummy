@@ -1,0 +1,56 @@
+.thirdSection{
+    margin: auto;
+    padding: 150px 0;
+    max-width: 1170px;
+    display: flex;
+}
+
+.thirdSection .info{
+    width: 45%;
+    box-sizing: border-box;
+    margin: 45px 0;
+}
+
+.thirdSection .sectionDog{
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.thirdSection .info .y{
+    font-weight: bold;
+    font-family: Montserrat;
+    font-size: 72px;
+    color: rgb(243, 127, 52);
+    margin: 0;
+}
+
+.thirdSection .info .p{
+    font-weight: bold;
+    font-family: Montserrat;
+    font-size: 72px;
+    color: rgb(119, 78, 46);
+    margin: 0;
+}
+
+.thirdSection .info p{
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 16px;
+    color: rgb(119, 78, 46);
+}
+
+.thirdSection .info h4{
+    font-family: Montserrat;
+    font-size: 24px;
+    color: rgb(119, 78, 46);
+}
+
+.thirdSection .info ul{
+    font-family: Montserrat;
+    font-size: 16px;
+    color: rgb(119, 78, 46); 
+}
+
+.thirdSection .info ul li{
+    margin-top: 10px;
+}

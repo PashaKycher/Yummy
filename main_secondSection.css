@@ -1,0 +1,52 @@
+.secondSection{
+    width: 100%;
+    background: rgb(255, 249, 234);
+    padding: 150px 0;
+}
+
+.secondSection .secondSectionCotent{
+    margin: auto;
+    max-width: 1170px;
+    background: rgb(255, 249, 234);
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentH{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 72px;
+    color: rgb(243, 127, 52);
+    margin: 0;
+    text-align: center;
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentH span{
+    font-family: Montserrat;
+    font-size: 72px;
+    color: rgb(119, 78, 46);
+    margin: 0;
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentGoods{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentGoods .goods{
+    background: white;
+    width: 30%;
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentGoods .goods p{
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 16px;
+    color: rgb(119, 78, 46);
+    text-align: center;
+}
+
+.secondSection .secondSectionCotent .secondSectionCotentGoods .goods .h{
+    font-size: 24px;
+    font-weight: bold;
+}
